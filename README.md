@@ -1,4 +1,3 @@
 # TikTok_bias
 
-This is a test. 
-Hello this is me hahaha
+This is a test. Great stuff!
