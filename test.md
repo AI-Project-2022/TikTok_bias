@@ -34,4 +34,3 @@ table 2 - generator
 | Check account 3     | No              | Check if words appear |
 | Check account 4     | No              | Check if words appear |
 
-
