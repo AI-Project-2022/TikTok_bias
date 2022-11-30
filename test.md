@@ -23,7 +23,6 @@ Table 1: Accounts
 |Check account 4 | No | Check if words appear |
 
 table 2 - generator
-| Table 1: Test                                                 |
 | Account type        | Account history | Role                  |
 |---------------------|-----------------|-----------------------|
 | Treatment account 1 | Yes             | Post treatment words  |
