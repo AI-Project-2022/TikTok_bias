@@ -29,7 +29,7 @@ Recently, a German investigative journalist network discovered that TikTok Germa
 
 ## 3 Methodology
 <p align="justify"> 
-We designed an experiment in order to analyze if TikTok’s automated content moderation system censors certain word clusters, even if they comply with the platform’s <a href="./product/download.html](https://www.tiktok.com/community-guidelines?lang=en" target="_top">community guidelines</a>. The following section describes the experimental setup and justifies each decision made in order to collect the data in the most rigorous, transparent and systematized way. 
+We designed an experiment in order to analyze if TikTok’s automated content moderation system censors certain word clusters, even if they comply with the platform’s <a href="https://www.tiktok.com/community-guidelines?lang=en" target="_top">community guidelines</a>. The following section describes the experimental setup and justifies each decision made in order to collect the data in the most rigorous, transparent and systematized way. 
 
 <ins>TikTok accounts</ins>
 <p align="justify"> 
@@ -139,6 +139,9 @@ The posting process was done in two consecutive rounds, the first on November 11
 <p align="justify"> 
 Treatment and control words were posted under the same video at approximately the same time. Given that the order in which the words were posted could have had an effect on the results, there was an alternation between which accounts posted first and which ones posted afterwards. Consequently, for some words, the accounts which posted ‘treatment words’ commented first, and for other words the accounts which posted ‘control words’ commented first. The exact times were recorded in a <a href="https://docs.google.com/spreadsheets/d/1rx0xce8TgYR3WbMyKbFbzRDz0wuyHIG6NNcnp1sshjI/edit#gid=0" target="_top">Matrix</a>. 
 
+<ins>The checking process</ins>
+<p align="justify"> 
+The checking process was done three times by the four checking accounts with the objective of evaluating if there was a change in the visibility of the comments over time. The first check was done right after the words were posted. The second check was carried out one day after posting and the third check was done a week after posting. The checking accounts recorded the results in the <a href="https://docs.google.com/spreadsheets/d/1rx0xce8TgYR3WbMyKbFbzRDz0wuyHIG6NNcnp1sshjI/edit#gid=0" target="_top">Matrix</a>, with 0 indicating that the comment was not visible and 1 indicating that the comment was visible in their respective accounts. 
  
 
 
