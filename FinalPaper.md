@@ -1,7 +1,21 @@
 # Automated censorship through TikTok’s content moderation system: an analysis of word filters in France
 
 # table of contents
+[1 Introduction](#introduction)
 
+[2 Literature review](#litreview)
+
+[3 Methodology](#methodology)
+
+[4 Results](#results)
+
+[5 Discussion](#discussion)
+
+[6 Conclusion](#conclusion)
+
+[7 Bibliography](#bibliography)
+
+<a name="introduction"></a>
 ## 1 Introduction
 
 <p align="justify"> 
@@ -14,7 +28,9 @@ While there is data and reports that demonstrate censorship of media content in 
 Considering this, TikTok has been subject to various journalistic investigations on content moderation. For example, the Washington Post reported that TikTok's US-based employees had repeatedly been ordered to restrict some videos on its platform at the behest of Beijing-based teams (Harwell & Romm, 2019). Most recently, a German journalist network detected that TikTok presumably uses automated word filters to prevent certain comments from being publicly visible (Eckert et al., 2022).
 <p align="justify"> 
 Building upon these journalistic investigations, the present study sought to further test TikTok’s automated content moderation of comments in an experimental set-up. In this report, we will first briefly review the existing body of literature on digital content moderation and lay out our methodology. Then, we will describe our results and discuss our findings, before concluding by a discussion of limitations and proposals for future research.
+
   
+<a name="litreview"></a>
 ## 2 Literature review
 <p align="justify"> 
 According to Langlois et al. (2009), social media is “primarily concerned with establishing the technocultural conditions within which users can produce content [which] can be re-channelled through techno-commercial networks and channels”. Following this approach, content moderation is an inevitable tool to establish such technocultural conditions on social media platforms (Gillespie, 2020). Building upon Grimmelmann (2015), the present report refers to content moderation as “governance mechanisms that structure participation in a[n online] community to facilitate cooperation and prevent abuse” (cf. Roberts, 2014). With a growing list of potential abuses in the digital world, content moderation systems increasingly rely on “removing or reducing the visibility of potentially abusive content” (Nicholas, 2022). Considering the rapid expansion of social media platforms and the associated immense volume of data, today’s digital environment is dominated by automated content moderation mechanisms via algorithms and artificial intelligence (AI; Gillespie, 2020). 
@@ -27,6 +43,7 @@ TikTok is a particularly interesting case for shadowbanning as a tool of automat
 <p align="justify"> 
 Recently, a German investigative journalist network discovered that TikTok Germany allegedly restricts users’ freedom of speech by using automated word filters. The experiment showed that at least 20 words (e.g., “LGBTQ“) prevented comments from appearing publicly. According to them, during prior research, words in the context of the Russian war of aggression against Ukraine as well as climate change were also censored occasionally (Eckert et al., 2022). The present report seeks to fill a gap in the literature by replicating the journalistic experiment in the French context, considering that France is the second-biggest market for TikTok in the European Union, with almost 30% of the French population using the app (Kemp, 2022). 
 
+<a name="methodology"></a>
 ## 3 Methodology
 <p align="justify"> 
 We designed an experiment in order to analyze if TikTok’s automated content moderation system censors certain word clusters, even if they comply with the platform’s <a href="https://www.tiktok.com/community-guidelines?lang=en" target="_top">community guidelines</a>. The following section describes the experimental setup and justifies each decision made in order to collect the data in the most rigorous, transparent and systematized way. 
@@ -143,6 +160,7 @@ Treatment and control words were posted under the same video at approximately th
 <p align="justify"> 
 The checking process was done three times by the four checking accounts with the objective of evaluating if there was a change in the visibility of the comments over time. The first check was done right after the words were posted. The second check was carried out one day after posting and the third check was done a week after posting. The checking accounts recorded the results in the <a href="https://docs.google.com/spreadsheets/d/1rx0xce8TgYR3WbMyKbFbzRDz0wuyHIG6NNcnp1sshjI/edit#gid=0" target="_top">Matrix</a>, with 0 indicating that the comment was not visible and 1 indicating that the comment was visible in their respective accounts. 
 
+<a name="results"></a>
 ## 4 Results
 <p align="justify"> 
 This section presents our research results in detail. First, the descriptive statistics of the TikTok videos involved in the experiment are reported. In the second part, we present the results obtained from our experiment.
@@ -161,7 +179,8 @@ Our experiment involved 29 conveniently selected videos from TikTok. The average
 Figure 2 presents the results of the experiment itself. In the treatment group on the LGBTQ+ topic, no test comment was publicly visible. In contrast, in the control group, 6 of the 12 (50%) tested comments were publicly visible. Likewise, on the topic of Climate Change, no comments were visible in the treatment group, whereas 7 out of 14 (50%) were visible in the control group. In the Russo-Ukrainian War topic, again, no comments within the treatment group were publicly visible. Contrary to that, in the control group, 9 out of 16 (56%) comments were publicly displayed. Lastly, on issues related to China, none of the test comments from the treatment group were visible while 8 out of 16 comments from the control group were not. 
 <p align="justify"> 
 In total, from the 58 tested comments in the treatment group across topics, not a single comment was found to be publicly visible. In the control group, on the other hand, 30 of the 58 (52%) comments were publicly visible across every theme. Beyond that, in all cases where comments were not publicly visible, they were still displayed as published to the author (see shadowbanning). In addition, the author of the comment was able to interact with the comment (e.g., to like the comment).
-  
+
+<a name="discussion"></a>
 ## 5 Discussion
 <p align="justify"> 
 In line with the findings from Germany (see Eckert et al., 2022), our experiment indicates that TikTok is censoring comments without any cause. Yet, our results are not unambiguous. On the one hand, we could observe that all our test words were not publicly visible, although their content was not in violation of TikTok’s community guidelines. On the other hand, a significant number of comments posted in the control group were also not visible. This issue only relates to one of the two test accounts (the one without an account history). 
@@ -175,7 +194,8 @@ One might be tempted to argue that some comments were not visible due to seeming
 Apart from that, certain limitations of the study must be recognized. First, the experiment only made use of four posting accounts in total. To establish a clearer picture, future research investigating this issue should aim for creating larger experimental groups. Second, although we have tried to make the test accounts as comparable as possible, it cannot be precluded that latent features or metrics may have had an influence on the presence of shadowbanning. Third, TikTok provides its users with the option of filtering comments by keyword. While we have tried to obviate this by commenting on videos not related to our test topics, we cannot fully rule out the possibility that this feature might have affected our results.
 <p align="justify"> 
 However, the present research has provided clear evidence of illegitimate shadowbanning practices on TikTok. To what extent these practices depend on the content of comments or on other aspects remains to be explored. Furthermore, it remains essential to demand more transparency from TikTok. As of now, the opacity of the platform’s content moderation algorithm makes it difficult to assess its impact on freedom of speech in Europe and beyond.
-  
+
+<a name="conclusion"></a>
 ## 6 Conclusion
 <p align="justify"> 
 In conclusion, triggered by the German precedent, we set up an experimental structure to investigate TikTok’s automated content moderation system in France. For this, four accounts posted treatment or control words embedded in standardized sentences under 29 unrelated videos. Another four accounts then consecutively checked if the comments appeared. In 100% of the treatment and roughly 50% of the control cases, the posted content was not publicly visible in spite of being displayed as published. 
@@ -185,7 +205,8 @@ This experiment has provided evidence of illegitimate shadowbanning practices on
 Thus, further research should target the role account history plays on comment visibility and control for automated word filters. Moreover, more clarification is needed on the platform’s definition and action against spamming behavior. The role of video characteristics (related/unrelated, viral/non viral etc.) could also potentially influence the moderation of politically-sensitive word clusters. Hence, this experiment would benefit from being replicated in other geographical contexts with a larger sample of accounts and videos. Overall, the existing body of literature on digital content moderation might benefit from empirically studying the phenomenon of shadowbanning on TikTok. 
 <p align="justify"> 
 To sum up, our experiment has shown that TikTok’s content moderation system entails a non-transparent dimension, potentially even a bias against new user accounts or certain words and/or word clusters. As it remains crucial to systematically assess the platform’s impact on political discourse and overall freedom of speech abroad, more transparency from TikTok is needed in order to mitigate risks such as content censorship.
-  
+
+<a name="bibliography"></a>
 ## 7 Bibliography
 Biddle, S., Ribeiro, P. V., & Dias, T. (2020, March 16). ***TikTok Told Moderators: Suppress Posts by the “Ugly” and Poor.*** The Intercept. https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/.
   
