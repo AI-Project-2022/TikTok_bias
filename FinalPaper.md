@@ -71,7 +71,7 @@ The first decision involved the setup of the different accounts that were used i
 | Check account 3 | No | Check if words appear |
 | Check account 4 | No | Check if words appear |
 
-  ***Table 1 - Description of accounts used for the experiment.***
+  *Table 1 - Description of accounts used for the experiment.*
   
 </div> 
   
@@ -125,7 +125,7 @@ Following the original setup of the German experiment, in which words were poste
 | China | Droits de l’homme | Nous devons parler des droits de l’homme |
 | China | Travail forcé | Nous devons parler de travail forcé    |
   
-  ***Table 2 - Description of treatment words.***
+  *Table 2 - Description of treatment words.*
   
 </div> 
 
@@ -143,7 +143,7 @@ Some videos were selected based on thematic searches, while most of them were ta
   <img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205106867-118ebb85-d673-4a58-b4ce-a0266cf36f77.png">
 
   
-  ***Figure 1 - Difference between links with and without referral identifier.***
+  *Figure 1 - Difference between links with and without referral identifier.*
   </div>
 
 <p align="justify"> 
@@ -169,11 +169,15 @@ Our experiment involved 29 conveniently selected videos from TikTok. The average
 
 <div align="center"> 
   
-  <img width="452" alt="figure 2" src="https://user-images.githubusercontent.com/115728895/205109681-659a9bc5-8577-43a4-9a1e-d150a29ec6de.png">
+  ![figure 2](https://user-images.githubusercontent.com/115728895/205167800-2d34deab-bf66-4902-b01f-82401f0bea49.svg)
   
   
-  ***Figure 2 - Visibility of test comments on TikTok (by theme). Note: one box represents one test comment.***
+  *Figure 2 - Visibility of test comments on TikTok (by theme). Note: one box represents one test comment.*
     </div>
+    
+
+
+
     
 <p align="justify"> 
 Figure 2 presents the results of the experiment itself. In the treatment group on the LGBTQ+ topic, no test comment was publicly visible. In contrast, in the control group, 6 of the 12 (50%) tested comments were publicly visible. Likewise, on the topic of Climate Change, no comments were visible in the treatment group, whereas 7 out of 14 (50%) were visible in the control group. In the Russo-Ukrainian War topic, again, no comments within the treatment group were publicly visible. Contrary to that, in the control group, 9 out of 16 (56%) comments were publicly displayed. Lastly, on issues related to China, none of the test comments from the treatment group were visible while 8 out of 16 comments from the control group were not. 
