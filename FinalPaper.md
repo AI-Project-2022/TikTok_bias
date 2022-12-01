@@ -31,6 +31,87 @@ Recently, a German investigative journalist network discovered that TikTok Germa
 <p align="justify"> 
 We designed an experiment in order to analyze if TikTok’s automated content moderation system censors certain word clusters, even if they comply with the platform’s <a href="./product/download.html](https://www.tiktok.com/community-guidelines?lang=en" target="_top">community guidelines</a>. The following section describes the experimental setup and justifies each decision made in order to collect the data in the most rigorous, transparent and systematized way. 
 
-<u>TikTok accounts</u>
+<ins>TikTok accounts</ins>
 <p align="justify"> 
 The first decision involved the setup of the different accounts that were used in the experiment. We conducted the experiment with eight different accounts, four of them posting word clusters and four of them checking if they appeared in the comment section of the videos. Since only two group members had active accounts, it was decided that one of them would post ‘treatment words’ and the other one ‘control words’. The other six accounts were created for the purpose of this experiment.
+
+
+
+</b>
+
+<div align="center">
+
+  **Table 1: Accounts**
+  
+| **Account type** | **Account history** | **Role** |
+|---|---|---|
+| Treatment account 1 | Yes | Post treatment words |
+| Treatment account 2 | No | Post treatment words |
+| Control account 1 | Yes | Post control words |
+| Control account 2 | No | Post control words |
+| Check account 1 | No | Check if words appear |
+| Check account 2 | No | Check if words appear |
+| Check account 3 | No | Check if words appear |
+| Check account 4 | No | Check if words appear |
+
+  ***Table 1 - Description of accounts used for the experiment.***
+  
+</div> 
+  
+
+<p align="justify"> 
+It should be noted that the two accounts that had previous history differ in some minor aspects. While neither had posted videos and had no likes, the account Treatment account 1 had 20 followers and followed 42 other accounts, while the Control account 1 had 91 followers and followed 41 other accounts. Both users reported that they use their accounts frequently but only to watch videos and share them through the app’s in-built function on other messengers and social media platforms. 
+  
+<ins>Word clusters</ins>
+<p align="justify"> 
+We decided to test four main word clusters related to the LGBTQ+ community, climate change, the Russian war in Ukraine, and politically sensitive words in China. The first three thematic groups were already tested in the aforementioned German experiment and the fourth cluster was included for this particular experiment. In the remainder of the report, this set of words is referred to as 'treatment words', i.e., terms that could potentially prevent comments from appearing publicly in the comment section of the videos. 
+<p align="justify"> 
+Following the original setup of the German experiment, in which words were posted in German, for this experiment – carried out in France – all words were translated into French by a fluent-speaking member of the group. In addition, words were embedded in sentences with neutral language that did not violate TikTok’s community guidelines. The same sentences were used for each word cluster and were adjusted to their content in order to make sense and to be grammatically correct. Table 2 shows the words chosen for each word cluster as well as the sentence in which they were embedded. 
+
+ 
+
+</b>
+
+<div align="center">  
+  
+  **Table 2: Treatment words**
+  
+| **Word cluster** | **Treatment word** | **Sentence** |
+|---|---|---|
+| LGBT | LGBT | Je soutiens la communauté LGBT |
+| LGBT | Homosexuelle | Je soutiens la communauté homosexuelle |
+| LGBT | Gay | Je soutiens la communauté gay |
+| LGBT | Lesbienne | Je soutiens la communauté lesbienne |
+| LGBT | Bisexuelle | Je soutiens la communauté bisexuelle |
+| LGBT | Trans | Je soutiens la communauté trans |
+| LGBT | Pollution | La pollution est importante |
+| Climate Change | Crise climatique | La crise climatique est importante |
+| Climate Change | Changement climatique | Le changement climatique est important |
+| Climate Change | Émissions | Les émissions sont importantes |
+| Climate Change | Protection environnementale | La protection de l'environnement est importante |
+| Climate Change | Réchauffement global | Le réchauffement climatique est important |
+| Climate Change | Crise énergétique | La crise énergétique est importante |
+| Russo-Ukrainian War | Opération spéciale | Nous devons parler d'opérations spéciales en Ukraine |
+| Russo-Ukrainian War | Avions de chasse | Nous devons parler des avions de chasse en Ukraine |
+| Russo-Ukrainian War | Char de bataille | Nous devons parler des chars de bataille en Ukraine |
+| Russo-Ukrainian War | Droit international | Nous devons parler du droit international en Ukraine |
+| Russo-Ukrainian War | Troupes | Nous devons parler des troupes en Ukraine |
+| Russo-Ukrainian War | Crimes de guerre | Nous devons parler des crimes de guerre en Ukraine |
+| Russo-Ukrainian War | Invasion russe | Nous devons parler de l’Invasion russe en Ukraine |
+| Russo-Ukrainian War | Boutcha | Nous devons parler de Boutcha en Ukraine |
+| China | Ouïghours | Nous devons parler des Ouïghours |
+| China | Xinjiang | Nous devons parler de Xinjiang |
+| China | Taïwan | Nous devons parler de Taïwan |
+| China | Tibet | Nous devons parler du Tibet |
+| China | Hongkong | Nous devons parler de Hongkong |
+| China | Tiananmen | Nous devons parler de Tiananmen |
+| China | Droits de l’homme | Nous devons parler des droits de l’homme |
+| China | Travail forcé | Nous devons parler de travail forcé    |
+  
+  ***Table 2 - Description of treatment words.***
+  
+</div> 
+
+<p align="justify"> 
+In addition, the sentence “J'aime ta vidéo” (I like your video) was used as a control group of words, in order to verify that the comments on each video were not restricted by the owner. This sentence, referred to as ‘control words’ in the remainder of the report, also provides a benchmark to compare the experimental results in relation to the ‘treatment words’.
+
