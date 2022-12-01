@@ -185,4 +185,68 @@ This experiment has provided evidence of illegitimate shadowbanning practices on
 Thus, further research should target the role account history plays on comment visibility and control for automated word filters. Moreover, more clarification is needed on the platform’s definition and action against spamming behavior. The role of video characteristics (related/unrelated, viral/non viral etc.) could also potentially influence the moderation of politically-sensitive word clusters. Hence, this experiment would benefit from being replicated in other geographical contexts with a larger sample of accounts and videos. Overall, the existing body of literature on digital content moderation might benefit from empirically studying the phenomenon of shadowbanning on TikTok. 
 <p align="justify"> 
 To sum up, our experiment has shown that TikTok’s content moderation system entails a non-transparent dimension, potentially even a bias against new user accounts or certain words and/or word clusters. As it remains crucial to systematically assess the platform’s impact on political discourse and overall freedom of speech abroad, more transparency from TikTok is needed in order to mitigate risks such as content censorship.
-
+  
+## 7 Bibliography
+Biddle, S., Ribeiro, P. V., & Dias, T. (2020, March 16). ***TikTok Told Moderators: Suppress Posts by the “Ugly” and Poor.*** The Intercept. https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/.
+  
+Binns, R., Veale, M., Kleek, M. V., & Shadbolt, N. (2017). Like trainer, like bot? Inheritance of bias in algorithmic content moderation. In ***International conference on social informatics*** (pp. 405-415). Springer, Cham.
+  
+Burke, C. (2019, December 5). ***Tiktok admits to hiding content made by fat, LGBTQ, and disabled users.*** The Daily Dot. https://www.dailydot.com/irl/tiktok-fat-lgbtq-disabled-creators/ 
+  
+Cotter, K. (2021). “Shadowbanning is not a thing”: black box gaslighting and the power to independently know and credibly critique algorithms. ***Information, Communication & Society***, 1-18.
+  
+Duffy, B. E., & Meisner, C. (2022). Platform governance at the margins: Social media creators’ experiences with algorithmic (in) visibility. ***Media, Culture & Society***. 
+  
+Eckert, S., Felke, C., & Vitlif, O. (2022, October 5). Wortfilter: TikTok schränkt Meinungsfreiheit ein. ***Tagesschau***. https://www.tagesschau.de/investigativ/ndr/tik-tok-begriffe-101.html 
+  
+Gillespie, T. (2020). Content moderation, AI, and the question of scale. ***Big Data & Society***, 7(2).
+  
+Gorwa, R., Binns, R., & Katzenbach, C. (2020). Algorithmic content moderation: Technical and political challenges in the automation of platform governance. ***Big Data & Society***, 7(1).
+  
+Grandinetti, J. (2021). Examining embedded apparatuses of AI in Facebook and TikTok. ***Ai & Society***, 1-14.
+  
+Gray, J. E. (2021). The geopolitics of ‘platforms’: the TikTok challenge. ***Internet Policy Review***, 10(2), 1–26. 
+  
+Grimmelmann, J. (2015). The virtues of moderation. ***Yale JL & Tech.***, 17, 42.
+  
+Harwell, D., & Romm, T. (2019, November 5). Inside TikTok: A Culture Clash Where U.S. Views about Censorship Often Were Overridden by the Chinese Bosses. ***Washington Post***. https://www.washingtonpost.com/technology/2019/11/05/inside-tiktok-culture-clash-where-us-views-about-censorship-often-were-overridden-by-chinese-bosses/.
+  
+Hern, A. (2019, September 29).Revealed: How TikTok Censors Videos That Do Not Please Beijing. ***The Guardian***. https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing.
+  
+Hern, A. (2022, October 25). How TikTok's algorithm made it a success: “It pushes the boundaries” ***The Guardian***. https://www.theguardian.com/technology/2022/oct/23/tiktok-rise-algorithm-popularity. 
+  
+Kemp, S. (2022, April 21). Digital 2022 April Global Statshot Report. DataReportal. https://datareportal.com/reports/digital-2022-april-global-statshot
+King, G., Pan, J., & Roberts, M. E. (2013). How censorship in China allows government criticism but silences collective expression. ***American political science Review***, 107(2), 326-343.
+  
+King, G., Pan, J., & Roberts, M. E. (2017). How the Chinese government fabricates social media posts for strategic distraction, not engaged argument. ***American political science review***, 111(3), 484-501.
+  
+Langlois, G., Elmer, G., McKelvey, F., & Devereaux, Z. (2009). Networked publics: The double articulation of code and politics on Facebook. ***Canadian Journal of Communication***, 34(3), 415-434.
+  
+Le Merrer, E., Morgan, B., & Trédan, G. (2021, May). Setting the record straighter on shadow banning. In ***IEEE INFOCOM 2021-IEEE Conference on Computer Communications*** (pp. 1-10). IEEE.
+  
+Lin, P. (2021). ***TikTok vs Douyin A Security and Privacy Analysis***.
+  
+Llansó, E. J. (2020). No amount of “AI” in content moderation will solve filtering’s prior-restraint problem. ***Big Data & Society***, 7(1).
+  
+Myers West, S. (2018). Censored, suspended, shadowbanned: User interpretations of content moderation on social media platforms. ***New Media & Society***, 20(11), 4366-4383.
+  
+Nicholas, G. (2022). ***Shedding Light on Shadowbanning***.
+  
+Ozanne, M., Bhandari, A., Bazarova, N. N., & DiFranzo, D. (2022). Shall AI moderators be made visible? Perception of accountability and trust in moderation systems on social media platforms. ***Big Data & Society***, 9(2).
+  
+Press Information Bureau Delhi. (2020, June 29). Government Bans 59 mobile apps which are prejudicial to sovereignty and integrity of India, defence of India, security of state and public order. ***PIB Delhi***. https://pib.gov.in/PressReleasePage.aspx?PRID=1635206
+  
+Roberts, S. T. (2014). Behind the screen: The hidden digital labor of commercial content moderation. University of Illinois at Urbana-Champaign.
+TikTok (2021, September 27). ***Thanks a Billion!*** TikTok Newsroom. https://newsroom.tiktok.com/en-us/1-billion-people-on-tiktok.
+  
+TikTok (2022, October). ***Community Guidelines***. TikTok. https://www.tiktok.com/community-guidelines
+  
+Thomala, L. L. (2022, April 29). ***China: Douyin (TikTok) users 2025***. Statista. https://www.statista.com/statistics/1090314/china-douyin-tiktok-user-number/.
+  
+Thomas, I. (2022, November 18). China and the TikTok threat: How the White House cybersecurity team is thinking about it. ***CNBC***. https://www.cnbc.com/2022/11/18/white-house-cyber-director-on-tiktok-chinas-influence-campaign.html
+  
+Wober, M. & Gunter, B. (1988). ***Television and Social Control***. Avebury.
+  
+Xu, B., & Albert, E. (2017). ‘Media Censorship in China. ***Council on Foreign Relations***. https://www.cfr.org/backgrounder/media-censorship-china.
+  
+Zeng, J., & Kaye, D. B. V. (2022). From content moderation to visibility moderation: A case study of platform governance on TikTok. ***Policy & Internet***, 14(1), 79-95.
