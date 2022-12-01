@@ -137,7 +137,7 @@ The second characteristic of the chosen videos is that they had less than 50 com
 <p align="justify"> 
 The posting process was done in two consecutive rounds, the first on November 11th, 2022 and the second on November 20th, 2022. After the first round and in light of the first results, we made the effort to increase the follower number of the first treatment account, in order to make Treatment account 1 and Control account 1 even more equal. 
 <p align="justify"> 
-Treatment and control words were posted under the same video at approximately the same time. Given that the order in which the words were posted could have had an effect on the results, there was an alternation between which accounts posted first and which ones posted afterwards. Consequently, for some words, the accounts which posted ‘treatment words’ commented first, and for other words the accounts which posted ‘control words’ commented first. The exact times were recorded in a <a href="./product/download.html](https://docs.google.com/spreadsheets/d/1rx0xce8TgYR3WbMyKbFbzRDz0wuyHIG6NNcnp1sshjI/edit#gid=0" target="_top">Matrix</a>. 
+Treatment and control words were posted under the same video at approximately the same time. Given that the order in which the words were posted could have had an effect on the results, there was an alternation between which accounts posted first and which ones posted afterwards. Consequently, for some words, the accounts which posted ‘treatment words’ commented first, and for other words the accounts which posted ‘control words’ commented first. The exact times were recorded in a <a href="https://docs.google.com/spreadsheets/d/1rx0xce8TgYR3WbMyKbFbzRDz0wuyHIG6NNcnp1sshjI/edit#gid=0" target="_top">Matrix</a>. 
 
  
 
