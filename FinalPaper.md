@@ -142,7 +142,47 @@ Treatment and control words were posted under the same video at approximately th
 <ins>The checking process</ins>
 <p align="justify"> 
 The checking process was done three times by the four checking accounts with the objective of evaluating if there was a change in the visibility of the comments over time. The first check was done right after the words were posted. The second check was carried out one day after posting and the third check was done a week after posting. The checking accounts recorded the results in the <a href="https://docs.google.com/spreadsheets/d/1rx0xce8TgYR3WbMyKbFbzRDz0wuyHIG6NNcnp1sshjI/edit#gid=0" target="_top">Matrix</a>, with 0 indicating that the comment was not visible and 1 indicating that the comment was visible in their respective accounts. 
- 
 
+## 4 Results
+<p align="justify"> 
+This section presents our research results in detail. First, the descriptive statistics of the TikTok videos involved in the experiment are reported. In the second part, we present the results obtained from our experiment.
+<p align="justify"> 
+Our experiment involved 29 conveniently selected videos from TikTok. The average view count amounted to 608,717, the median to 43,300 views. The minimum view count was 359, the maximum was 15,000,000. Since we focused on videos with a manageable number of pre-existing comments, the number of comments ranged between 0 and 64, with an average of 26 and a median of 25. The share count of the videos examined was on average 88 and had a median of 30, ranging between 1 and 388. The average number of likes per video was 9092, ranging from a minimum of 27 up to a maximum of 33,600 likes. This shows that the videos varied in their virality and user engagement on TikTok. 
 
+<div align="center"> 
+  
+  <img width="452" alt="figure 2" src="https://user-images.githubusercontent.com/115728895/205109681-659a9bc5-8577-43a4-9a1e-d150a29ec6de.png">
+  
+  
+  ***Figure 2: Visibility of test comments on TikTok (by theme). Note: one box represents one test comment.***
+    </div>
+    
+<p align="justify"> 
+Figure 2 presents the results of the experiment itself. In the treatment group on the LGBTQ+ topic, no test comment was publicly visible. In contrast, in the control group, 6 of the 12 (50%) tested comments were publicly visible. Likewise, on the topic of Climate Change, no comments were visible in the treatment group, whereas 7 out of 14 (50%) were visible in the control group. In the Russo-Ukrainian War topic, again, no comments within the treatment group were publicly visible. Contrary to that, in the control group, 9 out of 16 (56%) comments were publicly displayed. Lastly, on issues related to China, none of the test comments from the treatment group were visible while 8 out of 16 comments from the control group were not. 
+<p align="justify"> 
+In total, from the 58 tested comments in the treatment group across topics, not a single comment was found to be publicly visible. In the control group, on the other hand, 30 of the 58 (52%) comments were publicly visible across every theme. Beyond that, in all cases where comments were not publicly visible, they were still displayed as published to the author (see shadowbanning). In addition, the author of the comment was able to interact with the comment (e.g., to like the comment).
+  
+## 5 Discussion
+<p align="justify"> 
+In line with the findings from Germany (see Eckert et al., 2022), our experiment indicates that TikTok is censoring comments without any cause. Yet, our results are not unambiguous. On the one hand, we could observe that all our test words were not publicly visible, although their content was not in violation of TikTok’s community guidelines. On the other hand, a significant number of comments posted in the control group were also not visible. This issue only relates to one of the two test accounts (the one without an account history). 
+<p align="justify"> 
+This is puzzling to us since both accounts in the control group only posted non-political, affirmative content that fits within what is regularly commented on the platform. The two control group accounts solely differentiate by account history. One has an active and organic user history, while the other (affected) one was created for the purpose of the experiment and, therefore, had no history of prior use. At the same time, one of the treatment group accounts also had an active user history (but no visible comments). 
+<p align="justify"> 
+Comments were posted under videos that were selected from the ForYou-Page of the treatment accounts, so content that TikTok has suggested and would be organical to interact with, which makes it even more surprising that comments are not shown. This suggests that account history may not be the crucial factor. In addition, the shadowbanning of comments by the affected control account was inconsistent since in one case a comment was visible. In this context, the video involved did not display any characteristics significantly different from the others (i.e., all video characteristics were in between the respective minimum and maximum values). Besides, we did not find that the video characteristics affected the presence of shadowbanning in any other case.
+<p align="justify"> 
+One might be tempted to argue that some comments were not visible due to seemingly detected spamming behavior. However, there are indications that this does not apply to our experiment. First, our comment behavior was not in violation of TikTok’s policy on spamming (see TikTok, 2022). Second, the number of comments posted per account over a period of two non-consecutive days was not particularly high (29). Third, the issue of shadowbanning was already present from the very first comment. Assuming that TikTok does not classify new accounts as bots by default, this can hardly be explained.
+<p align="justify"> 
+Apart from that, certain limitations of the study must be recognized. First, the experiment only made use of four posting accounts in total. To establish a clearer picture, future research investigating this issue should aim for creating larger experimental groups. Second, although we have tried to make the test accounts as comparable as possible, it cannot be precluded that latent features or metrics may have had an influence on the presence of shadowbanning. Third, TikTok provides its users with the option of filtering comments by keyword. While we have tried to obviate this by commenting on videos not related to our test topics, we cannot fully rule out the possibility that this feature might have affected our results.
+<p align="justify"> 
+However, the present research has provided clear evidence of illegitimate shadowbanning practices on TikTok. To what extent these practices depend on the content of comments or on other aspects remains to be explored. Furthermore, it remains essential to demand more transparency from TikTok. As of now, the opacity of the platform’s content moderation algorithm makes it difficult to assess its impact on freedom of speech in Europe and beyond.
+  
+## 6 Conclusion
+<p align="justify"> 
+In conclusion, triggered by the German precedent, we set up an experimental structure to investigate TikTok’s automated content moderation system in France. For this, four accounts posted treatment or control words embedded in standardized sentences under 29 unrelated videos. Another four accounts then consecutively checked if the comments appeared. In 100% of the treatment and roughly 50% of the control cases, the posted content was not publicly visible in spite of being displayed as published. 
+<p align="justify"> 
+This experiment has provided evidence of illegitimate shadowbanning practices on TikTok, even though the general functioning of the platform’s content moderation algorithm remains opaque. Additionally, pre-existing differences in the treatment and control accounts or word filtering features for the comment section pose limitations to the results of this research.  
+<p align="justify"> 
+Thus, further research should target the role account history plays on comment visibility and control for automated word filters. Moreover, more clarification is needed on the platform’s definition and action against spamming behavior. The role of video characteristics (related/unrelated, viral/non viral etc.) could also potentially influence the moderation of politically-sensitive word clusters. Hence, this experiment would benefit from being replicated in other geographical contexts with a larger sample of accounts and videos. Overall, the existing body of literature on digital content moderation might benefit from empirically studying the phenomenon of shadowbanning on TikTok. 
+<p align="justify"> 
+To sum up, our experiment has shown that TikTok’s content moderation system entails a non-transparent dimension, potentially even a bias against new user accounts or certain words and/or word clusters. As it remains crucial to systematically assess the platform’s impact on political discourse and overall freedom of speech abroad, more transparency from TikTok is needed in order to mitigate risks such as content censorship.
 
