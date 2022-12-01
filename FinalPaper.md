@@ -1,5 +1,5 @@
 # Automated censorship through TikTok’s content moderation system: an analysis of word filters in France
-# test 2
+
 ## Table of Contents
 [1 Introduction](#introduction)
 
