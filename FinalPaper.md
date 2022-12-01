@@ -29,4 +29,8 @@ Recently, a German investigative journalist network discovered that TikTok Germa
 
 ## 3 Methodology
 <p align="justify"> 
-We designed an experiment in order to analyze if TikTok’s automated content moderation system censors certain word clusters, even if they comply with the platform’s [community guidelines](https://www.tiktok.com/community-guidelines?lang=en). The following section describes the experimental setup and justifies each decision made in order to collect the data in the most rigorous, transparent and systematized way. 
+We designed an experiment in order to analyze if TikTok’s automated content moderation system censors certain word clusters, even if they comply with the platform’s <a href="./product/download.html](https://www.tiktok.com/community-guidelines?lang=en" target="_top">community guidelines</a>. The following section describes the experimental setup and justifies each decision made in order to collect the data in the most rigorous, transparent and systematized way. 
+
+<u>TikTok accounts</u>
+<p align="justify"> 
+The first decision involved the setup of the different accounts that were used in the experiment. We conducted the experiment with eight different accounts, four of them posting word clusters and four of them checking if they appeared in the comment section of the videos. Since only two group members had active accounts, it was decided that one of them would post ‘treatment words’ and the other one ‘control words’. The other six accounts were created for the purpose of this experiment.
