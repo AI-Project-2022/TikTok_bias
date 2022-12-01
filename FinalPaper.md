@@ -114,4 +114,25 @@ Following the original setup of the German experiment, in which words were poste
 
 <p align="justify"> 
 In addition, the sentence “J'aime ta vidéo” (I like your video) was used as a control group of words, in order to verify that the comments on each video were not restricted by the owner. This sentence, referred to as ‘control words’ in the remainder of the report, also provides a benchmark to compare the experimental results in relation to the ‘treatment words’.
+  
+<ins>Choice of videos</ins>  
+<p align="justify"> 
+Another decision that was made was the choice of videos in which the ‘treatment words’ and the ‘control words’ would be posted. The first characteristic of the chosen videos was that they were completely unrelated to the cluster of words being tested. This decision stemmed from the fact that the aim of the research was to test TikTok’s automated moderation system with regards to words in the comment section and not the video content itself. Moreover, the decision aimed to avoid any interaction between the video content and potential comment removal. 
+<p align="justify">  
+Some videos were selected based on thematic searches, while most of them were taken from the ForYou-Pages of the accounts in order to interact with organic content that TikTok thinks is relevant for the employed accounts. In addition, in order to avoid any kind of interference with the experiment, the video links were not sent through any direct communication between the group members (i.e. a WhatsApp group). Instead, they were written in a Google Drive sheet and the link did not contain the referral part of the URL from which the video was obtained. Figure 1 shows the difference between a link containing a referral identifier and the link for the same video not containing the identifier. </p> 
+
+<div align="center"> 
+  
+  <img width="452" alt="figure 1" src="https://user-images.githubusercontent.com/115728895/205106867-118ebb85-d673-4a58-b4ce-a0266cf36f77.png">
+
+  
+  ***Figure 1: Difference between links with and without referral identifier***
+  </div>
+
+<p align="justify"> 
+The second characteristic of the chosen videos is that they had less than 50 comments. This decision had to be made, since comments do not appear chronologically and the checking process of whether the posted comments appeared or not occurred manually. All the characteristics of each video were recorded, including the user name of the video’s owner and the number of followers, the video’s URL, number of views, likes, comments and shares. 
+  
+  
+
+
 
